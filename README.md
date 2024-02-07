@@ -3,16 +3,16 @@
 <!--
 **Jalilnkh/Jalilnkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🔭 Currently Working:
-Product recognition at Omniaz.
+-🔭 Currently Working:
+-Product recognition at Omniaz.
 
-🌱 Currently Learning:
+-🌱 Currently Learning:
 
-Explainable AI.
-Data Analysis.
-Deep models for image recognition.
-👯 Looking to Collaborate On:
-Writing a proposal to secure funds for machine translation and AI in education projects.
+-Explainable AI.
+-Data Analysis.
+-Deep models for image recognition.
+-👯 Looking to Collaborate On:
+-Writing a proposal to secure funds for machine translation and AI in education projects.
 
 🤔 Seeking Help With:
 Starting a startup.
