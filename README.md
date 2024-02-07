@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 Currently Working:
-  - Product recognition at Omniaz.
+- 🔭 Currently Working as:
+  - Machine Learning Engineer
 - 🌱 Currently Learning:
   - Explainable AI.
   - Data Analysis.
