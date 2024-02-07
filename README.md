@@ -4,11 +4,11 @@
 - Product recognition at Omniaz.
 
 ### 🌱 Currently Learning:
--Explainable AI.
--Data Analysis.
--Deep models for image recognition.
+- Explainable AI.
+- Data Analysis.
+- Deep models for image recognition.
 ### 👯 Looking to Collaborate On:
--Writing a proposal to secure funds for machine translation and AI in education projects.
+- Writing a proposal to secure funds for machine translation and AI in education projects.
 ### 🤔 Seeking Help With:
   - Starting a startup.
 ### 💬 Let's Talk About:
