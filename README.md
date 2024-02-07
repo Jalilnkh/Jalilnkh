@@ -1,27 +1,22 @@
 ### Hi there 👋
 
 
--🔭 Currently Working:
+### 🔭 Currently Working:
+- Product recognition at Omniaz.
 
--Product recognition at Omniaz.
-
--🌱 Currently Learning:
+### 🌱 Currently Learning:
 
 -Explainable AI.
-
 -Data Analysis.
-
 -Deep models for image recognition.
 
-👯 Looking to Collaborate On:
-
+### 👯 Looking to Collaborate On:
 -Writing a proposal to secure funds for machine translation and AI in education projects.
 
-🤔 Seeking Help With:
-
+### 🤔 Seeking Help With:
   - Starting a startup.
 
-💬 Let's Talk About:
+### 💬 Let's Talk About:
 
   - Machine Learning.
   - Python.
@@ -30,11 +25,10 @@
 
 Biometrics.
 
-📫 How to Reach Me:
+### 📫 How to Reach Me:
   - The best way to reach me is through my LinkedIn page.
 
-👨‍🏫 Current Project:
-
+### 👨‍🏫 Current Project:
   - Considering the establishment of a startup for AI in education to address the educational needs of Turk people in Iran who lack schools teaching in the Azerbaijani language.
 
 
