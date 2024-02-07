@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 Currently Working:
+### 🔭 Currently Working:
 - Product recognition at Omniaz.
 
 ### 🌱 Currently Learning:
