@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-#### 🔭 Currently Working:
+🔭 Currently Working:
 - Product recognition at Omniaz.
 
-#### 🌱 Currently Learning:
+🌱 Currently Learning:
 - Explainable AI.
 - Data Analysis.
 - Deep models for image recognition.
