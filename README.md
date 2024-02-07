@@ -16,9 +16,9 @@
   - Machine Translation.
   - AI in Education.
   - Biometrics.
-### 📫 How to Reach Me:
+- 📫 How to Reach Me:
   - The best way to reach me is through my LinkedIn page.
-### 👨‍🏫 Current Project:
+- 👨‍🏫 Current Project:
   - Considering the establishment of a startup for AI in education to address the educational needs of Turk people in Iran who lack schools teaching in the Azerbaijani language.
 
 
