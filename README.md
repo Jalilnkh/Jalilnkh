@@ -3,14 +3,31 @@
 <!--
 **Jalilnkh/Jalilnkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 Currently Working:
+Product recognition at Omniaz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+
+Explainable AI.
+Data Analysis.
+Deep models for image recognition.
+👯 Looking to Collaborate On:
+Writing a proposal to secure funds for machine translation and AI in education projects.
+
+🤔 Seeking Help With:
+Starting a startup.
+
+💬 Let's Talk About:
+
+Machine Learning.
+Python.
+Machine Translation.
+AI in Education.
+Biometrics.
+📫 How to Reach Me:
+The best way to reach me is through my LinkedIn page.
+
+👨‍🏫 Current Project:
+Considering the establishment of a startup for AI in education to address the educational needs of Turk people in Iran who lack schools teaching in the Azerbaijani language.
+
+
