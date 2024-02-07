@@ -2,6 +2,9 @@
 
 - 🔭 Currently Working as:
   - Machine Learning Engineer
+- 🔭 Most recent research:
+  - My PhD about Countermeasure Algorithms Against Subterfuge in Mobile Biometric Systems
+  - Published papers [Google Scholar](https://scholar.google.com/citations?user=_I3xMO8AAAAJ&hl=en)  
 - 🌱 Currently Learning:
   - Explainable AI.
   - Data Analysis.
@@ -17,7 +20,8 @@
   - AI in Education.
   - Biometrics.
 - 📫 How to Reach Me:
-  - The best way to reach me is through my LinkedIn page.
+  - The best way to reach me is through my [LinkedIn page](https://www.linkedin.com/in/jalilnkh/)
+.
 - 👨‍🏫 Current Project:
   - Considering the establishment of a startup for AI in education to address the educational needs of Turk people in Iran who lack schools teaching in the Azerbaijani language.
 
