@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Currently Working as:
-  - Machine Learning Engineer
+  -  Expert Algorithm Development Engineer
 - 🔭 Most recent research:
   - My PhD about Countermeasure Algorithms Against Subterfuge in Mobile Biometric Systems
   - Published papers [Google Scholar](https://scholar.google.com/citations?user=_I3xMO8AAAAJ&hl=en)  
